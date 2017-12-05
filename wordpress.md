@@ -3,7 +3,7 @@
 To try to check the impact of performance enhancements we need some baseline metrics based on architecture
 
 
-![network diagram](https://github.com/PearlDragon/test-pilot/blob/master/network.svg "Network Diagram")
+![network diagram](https://github.com/PearlDragon/test-pilot/blob/master/network.png "Network Diagram")
  * Disk IO: Raw throughput vs GFS vs NFS
  * Tuning changes: client-side sync, async
  * Web hosting platform
