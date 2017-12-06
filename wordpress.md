@@ -17,3 +17,6 @@ Possible tuning changes (note that we already know the stat calls are killing wo
  * change NFS to async (if it isn't already)
  * add memcache/redis to wordpress
  
+Notes:
+ diagrams by draw.io
+ 
